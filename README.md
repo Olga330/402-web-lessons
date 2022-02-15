@@ -1,1 +1,1 @@
-# 402-web-lessons
+# 402-web-programming
